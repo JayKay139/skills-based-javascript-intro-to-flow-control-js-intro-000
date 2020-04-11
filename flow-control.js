@@ -1,6 +1,5 @@
-function basicTeenager(age)
-age = (13,14,15,16,17,18,19)
-if (age){
+function basicTeenager(13-19)
+if basicTeenager {
   "You are a teenager!"
 }
 
