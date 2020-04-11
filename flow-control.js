@@ -1,6 +1,5 @@
 function basicTeenager(age)
-(age) => 13-19 
-if basicTeenager {
+if (age) => (13-19) {
   "You are a teenager!"
 }
 
