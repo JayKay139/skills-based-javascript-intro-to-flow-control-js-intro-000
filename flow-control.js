@@ -1,5 +1,5 @@
 function basicTeenager(age)
-describe ('basicTeenager'), (age)=> {13-19}
+Define ('basicTeenager'), (age)=> {13-19}
 if (age) {
   ("You are a teenager!")
 }
