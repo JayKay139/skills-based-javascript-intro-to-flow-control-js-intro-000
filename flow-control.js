@@ -1,8 +1,8 @@
 function basicTeenager(age)
-Define 'basicTeenager'
-  if (age => 13-19){
-  "You are a teenager!"
-}
+describe('basicTeenager', () => {
+  it('should return "You are a teenager!" if the age is between 13-19', () => {
+    expect(basicTeenager(13)).toEqual("You are a teenager!");
+  })
 
 
 function teenager(age)
