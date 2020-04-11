@@ -2,7 +2,7 @@ function basicTeenager(age) => {13-19}
 if (basicTeenager) {"You are a teenager!"}
 
 
-function teenager(age) {
+function teenager(age) 
 
 }
 
