@@ -1,4 +1,4 @@
-function basicTeenager(age) = {13-19}
+function basicTeenager(age)
 if basicTeenager (age)=> (13-19) {
   "You are a teenager!"
 }
