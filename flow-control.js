@@ -1,5 +1,5 @@
 function basicTeenager(age)
-'basicTeenager', (age)=> {13-19}
+describe 'basicTeenager', (age)=> {13-19}
 if (age) {
   ("You are a teenager!")
 }
