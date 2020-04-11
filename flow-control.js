@@ -1,6 +1,5 @@
 function basicTeenager(age)
-Define ('age' => {13-19}
-  if (age){
+  if (age => 13-19){
   "You are a teenager!"
 }
 
