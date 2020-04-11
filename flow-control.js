@@ -1,4 +1,5 @@
 function basicTeenager(age)
+Define 'basicTeenager'
   if (age => 13-19){
   "You are a teenager!"
 }
